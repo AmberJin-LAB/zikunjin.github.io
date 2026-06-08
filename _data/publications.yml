@@ -13,7 +13,7 @@ main:
   - title: "Signal Enhancement via Multi-view Dynamic Representation and Alignment-aware Fusion"
     authors: <strong>Zikun Jin</strong>, Yuhua Qian*, Xinyan Liang, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng, Honghong Cheng
     conference_short: AAAI
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>()</strong>, 2025.
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/39404
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -31,3 +31,25 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/MFSE.png
+
+  - title: "AMR-LLM: Knowledge-Enhanced Multi-Modal Automatic Modulation Recognition via Large Language Models"
+    authors: Shen Hu, Yuhua Qian*, Xinyan Liang, <strong>Zikun Jin</strong>, Jiaqian Zhang
+    conference_short: IJCAI
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2026.
+    # pdf: https://www.ijcai.org/proceedings/2025/0613.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/AMR-LLM.png
+    
+  - title: "An Association-based Fusion Method for Speech Enhancement"
+    authors: Shijie Wang, Qian Guo, Lu Chen, Liang Du, <strong>Zikun Jin</strong>, Zhian Yuan, Xinyan Liang
+    conference_short: IJCAI
+    conference: International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2025.
+    pdf: https://www.ijcai.org/proceedings/2025/0713.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/AFSE.png
